@@ -2,6 +2,9 @@
 
 *This is where i'm going to put my reading notes.*
 
+![alt text](![linkedinphoto](https://user-images.githubusercontent.com/75331306/176012209-82b201dd-d6c6-48a2-9af4-11714562de38.jpg)
+
+
 **Growth mindset to me means continous learning. Constantly learning and practicing is how you improve professionally and personally over time.**
 
 How to stay in a growth mindset:
