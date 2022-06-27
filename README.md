@@ -6,7 +6,6 @@ Hello! My name is Josh Cook. I am a US Army Veteran and I am currently transitio
 
 ![linkedinphoto](https://user-images.githubusercontent.com/75331306/176013997-7a77980c-8f33-4817-a286-2d81b5c6a4e6.jpg)
 
-
 Growth mindset to me means continous learning. Constantly learning and practicing is how you improve professionally and personally over time.
 
 **How to stay in a growth mindset:**
@@ -18,5 +17,4 @@ Growth mindset to me means continous learning. Constantly learning and practicin
 
 My Github portfolio is located at [Josh's Github Portfolio](https://github.com/jcook071990)
 
-**Contact Info**
-[Josh's email](jcook071990@gmail.com)
+[jcook071990@gmail.com](mailto:jcook071990@gmail.com)
