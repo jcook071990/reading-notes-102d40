@@ -17,3 +17,6 @@ Growth mindset to me means continous learning. Constantly learning and practicin
 - Take a break. Burn out is real.
 
 My Github portfolio is located at [Josh's Github Portfolio](https://github.com/jcook071990)
+
+**Contact Info**
+[Josh's email](jcook071990@gmail.com)
