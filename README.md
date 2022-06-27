@@ -11,4 +11,4 @@ How to stay in a growth mindset:
 - Take baby steps. Small goals turn into large goals.
 - Take a break. Burn out is real.
 
-My Github portfolio is located at [Github](https://github.com/jcook071990)
+My Github portfolio is located at [Josh's Github Portfolio](https://github.com/jcook071990)
