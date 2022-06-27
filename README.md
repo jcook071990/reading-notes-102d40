@@ -1,4 +1,3 @@
-# My Reading Notes!
 
 **Bio:**
 
