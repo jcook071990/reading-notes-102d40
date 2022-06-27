@@ -2,7 +2,7 @@
 
 *This is where i'm going to put my reading notes.*
 
-![alt text](!![linkedinphoto](https://user-images.githubusercontent.com/75331306/176013997-7a77980c-8f33-4817-a286-2d81b5c6a4e6.jpg)
+(!![linkedinphoto](https://user-images.githubusercontent.com/75331306/176013997-7a77980c-8f33-4817-a286-2d81b5c6a4e6.jpg)
 
 
 **Growth mindset to me means continous learning. Constantly learning and practicing is how you improve professionally and personally over time.**
