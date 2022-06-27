@@ -21,5 +21,6 @@ My Github portfolio is located at [Josh's Github Portfolio](https://github.com/j
 
 **Contact Me!**
 
-Email : [jcook071990@gmail.com](mailto:jcook071990@gmail.com)
-Linkedin: [Josh's Linkedin]((https://www.linkedin.com/in/joshua-cook-995000183/)
+Email: [jcook071990@gmail.com](mailto:jcook071990@gmail.com)
+
+Linkedin: [Josh's Linkedin](https://www.linkedin.com/in/joshua-cook-995000183/)
