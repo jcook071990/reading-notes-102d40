@@ -1,2 +1,3 @@
-# reading-notes-102d40
-My reading notes for 102d40
+My reading notes!
+
+This is where i'm going to put my reading notes.
