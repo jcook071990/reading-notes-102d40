@@ -1,0 +1,14 @@
+#The Coders Computer
+
+**Text Editor**
+
+Okay so you might be thinking "what exacltly is a text editor?". Well, a text editor is an application that allows you to write text. Some text editors 
+allow you to write only text, and some editors allow you to write code. Your computer most likely already has a built in text editor. Depending on what
+operating system you have will depend on your text editor. For example, MacOS comes with "Text Edit", and windows computers comes with "Notepad".
+
+Now, using the text editor that was built into your computer is okay but it is not feasible. There are a variety of third party text editors available 
+to you. One of the most common and highly praised text editors you can download is *Visual Studio Code* or VSCode. VSCode is a free to use text editor 
+with an abundance of featers. Some of these features include *themes*, *code completion*, *syntax highlighting*, *extensions*, and more! Visual Studio 
+Code is the go to text editor for most coding bootcamps, colleges, and professionals worldwide. 
+
+You can checkout and/or download VSCode [Here](https://code.visualstudio.com/)
