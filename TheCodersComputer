@@ -31,13 +31,13 @@ directory is. It can be easy to get lost while you're moving arounbd inside the 
 
 ![pwd example](<img width="567" alt="Screen Shot 2022-06-28 at 7 51 00 AM" src="https://user-images.githubusercontent.com/75331306/176173390-8f0e0c06-599c-46b4-8b77-9d7a66e70fc3.png">)
 
-Another common command is **ls**. This command is used to know what files and directories are located here. The commans **ls** is short for list.
+Another common command is **ls**. This command is used to know what files and directories are located here. The command **ls** is short for list.
 Using **ls -a** will list all files including hidden ones. 
 
 **mkdir** is used to make a directory. Once you create a new directory you can use the command **cd** to change into that directory.
 For example: 
 
-mkdir new direcgtory
+mkdir new directory
 cd new directory
 
 You are now inside of the new directory you just created!
