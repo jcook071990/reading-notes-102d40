@@ -1,1 +1,47 @@
 # Class 2 Reading Notes
+
+#The Coders Computer
+
+**Text Editor**
+
+Okay so you might be thinking "what exacltly is a text editor?". Well, a text editor is an application that allows you to write text. Some text editors 
+allow you to write only text, and some editors allow you to write code. Your computer most likely already has a built in text editor. Depending on what
+operating system you have will depend on your text editor. For example, MacOS comes with "Text Edit", and windows computers comes with "Notepad".
+
+Now, using the text editor that was built into your computer is okay but it is not feasible. There are a variety of third party text editors available 
+to you. One of the most common and highly praised text editors you can download is *Visual Studio Code* or VSCode. VSCode is a free to use text editor 
+with an abundance of featers. Some of these features include *themes*, *code completion*, *syntax highlighting*, *extensions*, and more! Visual Studio 
+Code is the go to text editor for most coding bootcamps, colleges, and professionals worldwide. 
+
+You can checkout and/or download VSCode [Here](https://code.visualstudio.com/)
+
+**Terminal**
+
+What is the terminal? The command line or *terminal* is a text based interface to the system. In ther terminal you are able to write commands and receive 
+feedback from your computer. Here, you can change, add, and delete directoreies. You can also browse files, download software, and open VSCode. The 
+terminal is a powerful tool that is just as important to a developer as a text editor. 
+
+**Finding the terminal**
+
+If you are on Mac, simply open your Spotlight Search and type "Terminal". If you are on Linux then go to **Applications -> System** or **Applications ->
+Utilities**. You may also be able to *right-click* on the desktop and open your terminal from there. 
+
+**Basic Commands**
+
+Once you have your terminal open, type **pwd**, this stands for Print Working Directory. This command tells you what your current or present working 
+directory is. It can be easy to get lost while you're moving arounbd inside the terminal. Use this command frequently to help keep track of where you are.
+
+![pwd example](<img width="567" alt="Screen Shot 2022-06-28 at 7 51 00 AM" src="https://user-images.githubusercontent.com/75331306/176173390-8f0e0c06-599c-46b4-8b77-9d7a66e70fc3.png">)
+
+Another common command is **ls**. This command is used to know what files and directories are located here. The command **ls** is short for list.
+Using **ls -a** will list all files including hidden ones. 
+
+**mkdir** is used to make a directory. Once you create a new directory you can use the command **cd** to change into that directory.
+For example: 
+
+mkdir new directory
+cd new directory
+
+You are now inside of the new directory you just created!
+
+There are many commands and neat tricks to use in the terminal that will help make your programming life a little easier. 
