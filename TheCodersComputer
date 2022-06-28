@@ -29,4 +29,4 @@ Utilities**. You may also be able to *right-click* on the desktop and open your 
 Once you have your terminal open, type **pwd**, this stands for Print Working Directory. This command tells you what your current or present working 
 directory is. It can be easy to get lost while you're moving arounbd inside the terminal. Use this command frequently to help keep track of where you are.
 
-![pwd example]()
+![pwd example](<img width="567" alt="Screen Shot 2022-06-28 at 7 51 00 AM" src="https://user-images.githubusercontent.com/75331306/176173390-8f0e0c06-599c-46b4-8b77-9d7a66e70fc3.png">
