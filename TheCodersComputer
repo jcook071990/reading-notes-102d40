@@ -12,3 +12,21 @@ with an abundance of featers. Some of these features include *themes*, *code com
 Code is the go to text editor for most coding bootcamps, colleges, and professionals worldwide. 
 
 You can checkout and/or download VSCode [Here](https://code.visualstudio.com/)
+
+**Terminal**
+
+What is the terminal? The command line or *terminal* is a text based interface to the system. In ther terminal you are able to write commands and receive 
+feedback from your computer. Here, you can change, add, and delete directoreies. You can also browse files, download software, and open VSCode. The 
+terminal is a powerful tool that is just as important to a developer as a text editor. 
+
+**Finding the terminal**
+
+If you are on Mac, simply open your Spotlight Search and type "Terminal". If you are on Linux then go to **Applications -> System** or **Applications ->
+Utilities**. You may also be able to *right-click* on the desktop and open your terminal from there. 
+
+**Basic Commands**
+
+Once you have your terminal open, type **pwd**, this stands for Print Working Directory. This command tells you what your current or present working 
+directory is. It can be easy to get lost while you're moving arounbd inside the terminal. Use this command frequently to help keep track of where you are.
+
+![pwd example]()
