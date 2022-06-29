@@ -1,0 +1,64 @@
+#Javascript
+
+**Javascript Introduction**
+
+Javascript is a lightweight compiled programming language with first-class functions. It is most well known as a scripting language for web pages but is also used with *Node.js*, *Apache CouchDB*, and *Adobe Acrobat*. Javascript is an object oriented language. 
+
+**Javascript Variables**
+
+There are 4 ways to declare a variable in Javascript:
+-Var
+-let
+-const
+-and nothing
+
+Variables are containers for storing data.
+
+var x = 1;
+var y = 2;
+var z = x + y;
+
+x, y and z are the variables. 
+
+You can define the variables the same way with let:
+
+let x = 1;
+let y = 2;
+let z = x + y;
+
+And you can also write variables without declaring them
+
+x = 1;
+y = 2;
+z = x + y;
+
+**When should you use *const?**
+
+If you don't think the value of the variable will change, then use *let*. If you think the value of the variable might change at some point, then use *const*.
+
+**For instance:**
+
+const price1 = 1;
+const price2 = 2;
+let total = price1 + price2;
+
+**Identifiers**
+
+All javascript variables must be identified with unique names. 
+In our previous examples, x, y, and z were the identifiers. Identifiers can be simple names or more descriptive names such as age, sum, total value. Identifiers are case sensitive.
+
+**Assignment Operator**
+
+The ( = ) in Javascript is known as the *assignment* operator not and *equal* operator. The *equal* operator is actually written like ( == ).
+
+**Declaring a variable**
+
+Creating a variable in Javascript is called *declaring* a variable. Declare variables by using *var* or *let*.
+
+var carName = "Mercedes";
+
+or
+
+let carName = "Mercedes";
+
+Use and ( = ) sign to assign a value to the variable. 
