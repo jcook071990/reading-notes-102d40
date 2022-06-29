@@ -19,6 +19,10 @@ Growth mindset to me means continous learning. Constantly learning and practicin
 
 My Github portfolio is located at [Josh's Github Portfolio](https://github.com/jcook071990)
 
+**Git Guide** (learn about Git!)
+
+[Git over here!](jcook071990.github.io/reading-notes-102d40/class3)
+
 **Contact Me!**
 
 Email: [jcook071990@gmail.com](mailto:jcook071990@gmail.com)

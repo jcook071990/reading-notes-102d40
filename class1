@@ -1,0 +1,26 @@
+# Markdown Notes
+
+**What is Markdown?**
+
+Markdown is a plain text formatting syntax aimed at making writing for the internet easier. Markdown is not the same as traditional coding. Markdown can be used to modify text like lists, bold, italics, etc. 
+
+Here are some examples:
+
+Bold: *bold*
+Italics: **italics**
+Adding links: [sample text](http://www.URL.com)
+Images: ![sample text](image.jpg)
+
+Unordered List:
+
+-line 1
+-line 2
+-line 3
+
+Ordered list:
+
+1. line 1
+2. line 2
+3. line3
+
+Markdown converts to HTML easily. This does not mean that Markdown replaces HTML. If you need to write in HTML, Markdown will not do the job. However, if you need to write an email or a readme file where you need HTML's formatting options then Markdown is the perfect and most convenient tool to use.

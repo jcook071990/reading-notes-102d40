@@ -1,0 +1,26 @@
+#Git over here!
+
+**What is Git?**
+Git is a *Distributed Version Control System* that stores data in a file system made up of snapshots. Whenever you save a changed version of your project or *commit*, Git creates a snapshot of the file and stores a reference to it.
+
+**Practice with Git**
+
+Practicing with Git has taught me that it is very easy to get lost and it can be difficult to get back to where you need to be. It certainly takes time and lots of practice to fully understand Git.
+
+Adding, committing, and pushing and using Git efficiently is a very important part of software development. Utilizing Git correctly can make collaborating with teams much easier.
+
+**Version Control**
+
+Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes. So through version control you can revert back to a previous version of a file, track modifications, and compare changes. 
+
+**Local Version Control**
+
+A local VCS is one database on your hard drive that stores changes to files.
+
+**Centralized Version Control**
+
+The CVCS is a single server storing all changes and file versions, that can be accessed by various clients. This system eliminated the need to need to involve all local databases, which allowed for faster and more efficient collaboration. This also provided programmers with knowledge of team members' activities with files.
+
+**Distributed Version Control**
+
+Distributed Version Control Systems (DVCS) addresses major vulnerability of the CVS. A DVCS allows clients to create mirrored repositories, which lessens the chance of catastrophic loss due to data corruption if a CVS goes down.

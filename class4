@@ -1,0 +1,17 @@
+#Structure web pages with HTML
+
+**WireFraming**
+
+What is a wireframe? A wireframe is used by UX designers that allows them to define and plan information of their design for a website, app, or product. Wireframing is basically a blue print of what the website, app, or product will look like before any coding is done. 
+
+**HTML**
+
+HTML is a markup language that defines the structure of your content. HTML consists of a series of elements that enclose around content to make it look or act a certain way. *Tags* can make a word or image hyperlink somewhere else, can italicize words, and can make the font bigger or smaller. 
+
+HTML is a powerful tool that can create an entire web page on its own. Though an HTML webpage without CSS will not look the best.
+
+**Semantics**
+
+Semantics is the *meaning* of a piece of code. For example "what does that line of code do?" or "what is the reasoning to use that HTML element?".
+
+Semantics in HTML, for example, would be <h2>. This gives the text it wraps around the role of a second level heading on your page. There is a wide variety of semantic elements used in HTML as well as other languages. 

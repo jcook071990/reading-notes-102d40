@@ -1,0 +1,42 @@
+#Design Web Pages with CSS
+
+**What is CSS?**
+
+CSS stands for Cascading Style Sheets and it allows you to customize your web pages. Without CSS, all HTML web pages would look dull and boring.
+
+**CSS Purpose**
+
+As mentioned above, CSS is a language used by developers to layout, style, and completely customize the layout of a web page.
+
+**CSS Syntax**
+
+CSS is a rule-based language, for example you can have the main heading on your page be shown as large, or small, red or blue text if you choose.
+
+h1 {
+    color: red;
+    font-size: 5em;
+}
+
+**CSS Modules**
+
+CSS is broken down into modules. Much of the documentation pages are organized around a particular module. For example the Backgrounds and Borders module is defined as *background-color* and *border-color*.
+
+**How To Add CSS**
+
+There are three ways to add CSS:
+
+-External CSS
+-Internal CSS
+-Inline CSS
+
+**External CSS**
+
+Using this style sheet allows you to change the look of an entire website by changing just one file! This style sheet can be written in any text editor and must be saved with a *.css* extension.
+
+**Internal CSS**
+
+An internal style sheet is used if one single HTML page a unique style and are defined within the <style> element.
+
+**Inline CSS**
+
+Inline style is used for applying a unique style to a *single* element. To use *Inline styles*, simply add a style element to the tag you wish to style. <h1 style="color:blue;></h1>
